@@ -17,7 +17,7 @@ pytest>=2.9.0
 brute>=0.0.3
 pyinstaller==3.0
 pydocx>=0.9.10
-Pillow==2.0
+Pillow==8.1.1
 docx>=0.2.4
 comtypes>=1.1.7
 # scapy==2.2.0.dev0
